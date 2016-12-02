@@ -1,0 +1,58 @@
+.gameHead2{
+    text-align: center;
+}
+.mainLogin{
+    margin-left: 0;
+    margin-right: 0;
+}
+.mainLogin2 {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.loginLabel {
+    float: right;
+    margin-right: 2%;
+}
+form {
+    width:100%;
+}
+.formEntry{
+    width: 100%;
+}
+.loginBtn{
+    margin-left: 2%;
+}
+.loginLabel2{
+    text-align: right;
+}
+.formEntry2{
+    width: 60%;
+}
+.loginNote{
+    color: darkred;
+}
+.logoutLG {
+    text-align: right;
+}
+.gameHead3{
+    text-align: center;
+    margin-top: 0;
+}
+.firstNum{
+    text-align: right;
+}
+.secondNum{
+    text-align: center;
+}
+.answerBox{
+    text-align: center;
+}
+.smallAnswer{
+    width: 100%
+}
+.ansChecker{
+    color: red;
+}
+.correct {
+    color: green;
+}
